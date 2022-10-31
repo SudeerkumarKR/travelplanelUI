@@ -1,0 +1,21 @@
+.header{
+    display: grid;
+    justify-content: center;
+    padding:  1rem;
+  }
+
+  form{
+    display: grid;
+    grid-auto-flow: row;
+    row-gap: .4rem;
+     font-size: 0.8rem;
+   justify-content: center;
+  }
+
+  .button{
+    display: grid;
+    grid-auto-flow: row;
+    row-gap: .4rem;
+     font-size: 0.8rem;
+   justify-content: center;
+  }
